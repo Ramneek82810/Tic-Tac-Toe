@@ -79,13 +79,6 @@ Run the project to play Tic Tac Toe against the AI.
 └── README.md        # Project documentation
 ```
 
----
-
-## Screenshots 📸
-*(Include relevant screenshots showcasing the game interface and AI decisions)*
-
----
-
 ## How to Play 🎲
 - The game board is a standard **3x3 grid**. ➕
 - Players alternate turns to place their marks (**X** or **O**). ✏️
