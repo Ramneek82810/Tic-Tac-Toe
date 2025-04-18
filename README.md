@@ -3,6 +3,7 @@
 This project reimagines the classic **Tic Tac Toe** game with a state-of-the-art **AI opponent** powered by the **Minimax algorithm** enhanced with **Alpha-Beta Pruning**. 🧠✨ The AI's decision-making process ensures optimal moves while maintaining computational efficiency, making it an unbeatable opponent. The project includes an engaging and interactive interface for players to test their skills against this intelligent adversary. 🎮
 
 ## Table of Contents 📋
+
 - [Features](#features)
 - [How It Works](#how-it-works)
 - [Technologies Used](#technologies-used)
